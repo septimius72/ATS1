@@ -1,0 +1,36 @@
+ATS (Applicant tracking System) specific search string:
+
+site:*.taleo.net intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:apply.workable.com intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:boards.greenhouse.io intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:careers.peopleclick.com intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:icims.com inurl:jobs intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:jobs.ashbyhq.com intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:jobs.jobvite.com intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:jobs.lever.co intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:jobs.smartrecruiters.com intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:myworkdayjobs.com intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer
+
+site:oraclecloud.com inurl:job intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer 
+
+
+non-ATS (Applicant tracking System) Booleans that could be helpful:
+
+intitle:(jobs|job|careers) intext:”technical recruiter”|”technical recruiting”|”talent acquisition”|recruiting|recruiter|talent|sourcer intext:”seeking|apply”
+
+inurl:careers intitle:”technical recruiter”|”technical recruiting”|”talent acquisition”|”recruiter|recruiting|talent|sourcing|sourcer”
+
+site:co intitle:recruiter | intitle:sourcer | intitle:talent.acquisition "job|jobs|career|careers"
+
+site:app intitle:recruiter | intitle:sourcer | intitle:talent.acquisition "job|jobs|career|careers"
+
+site:io intitle:recruiter | intitle:sourcer | intitle:talent.acquisition "job|jobs|career|careers"
